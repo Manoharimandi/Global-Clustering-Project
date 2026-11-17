@@ -8,7 +8,7 @@ The project evaluates **K-Means, Hierarchical Clustering, and DBSCAN**, selects 
 
 This project was developed jointly by [Manoharimandi](https://github.com/Manoharimandi) and [Utkarsh Yadav](https://github.com/Utkarsh-Yadav-0000). This repository is an independent copy with its own Git history, not a GitHub fork. The original project repository is [Utkarsh-Yadav-0000/global-development-clustering](https://github.com/Utkarsh-Yadav-0000/global-development-clustering).
 
-The source repository does not include a `LICENSE` file. Please confirm reuse and redistribution terms with the project contributors before publishing this copy publicly.
+The source repository does not include a `LICENSE` file. Confirm the applicable reuse and redistribution terms with the project contributors.
 
 ## 🚀 Live Demo
 
