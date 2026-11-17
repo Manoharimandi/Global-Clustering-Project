@@ -9,7 +9,7 @@ The source repository does not include a `LICENSE` file. Confirm the applicable 
 
 ## 🚀 Live Demo
 
-🌐 **[Open the original project's Live Streamlit App](https://global-development-clustering-project-utkarsh.streamlit.app)**
+🌐 **[Open the original project's Live Streamlit App](https://global-clustering-project-aanxvrbmcdqpdxobudkhaf.streamlit.app))**
 
 The application is deployed using Streamlit Community Cloud and can also be run locally from this repository.
 
