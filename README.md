@@ -2,7 +2,8 @@
 
 An unsupervised machine learning project that analyzes global development indicators and groups countries into meaningful development profiles using clustering techniques.
 
-The project evaluates **K-Means, Hierarchical Clustering, and DBSCAN**, selects the most suitable model based on clustering performance and country coverage, and provides an interactive **Streamlit application** for exploring the results and predicting the development cluster of a new country.
+The project evaluates K-Means, Hierarchical Clustering, and DBSCAN, selects the most suitable model based on clustering performance and country coverage, and provides an interactive Streamlit application for exploring the results and predicting the development cluster of a new country.
+
 
 
 The source repository does not include a `LICENSE` file. Confirm the applicable reuse and redistribution terms with the project contributors.
