@@ -460,11 +460,11 @@ All required model, preprocessing, and dataset files are included in the reposit
 ---
 
 ## ☁️ Deployment
-
+https://global-clustering-project-aanxvrbmcdqpdxobudkhaf.streamlit.app
 The original project is deployed using **Streamlit Community Cloud** and is available as a live web application.
 
 🌐 **Live Application:**  
-https://global-development-clustering-project-utkarsh.streamlit.app
+
 
 The deployed application uses the saved K-Means model and preprocessing artifacts included in this repository.
 
