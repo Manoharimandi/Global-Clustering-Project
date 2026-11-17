@@ -6,8 +6,6 @@ The project evaluates K-Means, Hierarchical Clustering, and DBSCAN, selects the 
 
 
 
-The source repository does not include a `LICENSE` file. Confirm the applicable reuse and redistribution terms with the project contributors.
-
 ## 🚀 Live Demo
 
 🌐 **[Open the original project's Live Streamlit App](https://global-clustering-project-aanxvrbmcdqpdxobudkhaf.streamlit.app)**
