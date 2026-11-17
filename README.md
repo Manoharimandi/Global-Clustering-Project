@@ -4,9 +4,6 @@ An unsupervised machine learning project that analyzes global development indica
 
 The project evaluates **K-Means, Hierarchical Clustering, and DBSCAN**, selects the most suitable model based on clustering performance and country coverage, and provides an interactive **Streamlit application** for exploring the results and predicting the development cluster of a new country.
 
-## Project Credits
-
-This project was developed jointly by [Manoharimandi](https://github.com/Manoharimandi) and [Utkarsh Yadav](https://github.com/Utkarsh-Yadav-0000). This repository is an independent copy with its own Git history, not a GitHub fork. The original project repository is [Utkarsh-Yadav-0000/global-development-clustering](https://github.com/Utkarsh-Yadav-0000/global-development-clustering).
 
 The source repository does not include a `LICENSE` file. Confirm the applicable reuse and redistribution terms with the project contributors.
 
